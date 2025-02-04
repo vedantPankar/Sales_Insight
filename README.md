@@ -14,9 +14,17 @@ The dashboard visualizes key sales metrics, including:
 ## 📷 Screenshots
 
 Dashboard View 1:
+![Screenshot 2025-01-29 105634](https://github.com/user-attachments/assets/ec6bbe35-e922-430f-b182-aa10c8080272)
 
 
 Dashboard View 2:
+![Screenshot 2025-01-29 105704](https://github.com/user-attachments/assets/4a6bc982-bcd2-48c0-87ff-68077415814d)
+
+
+Dashboard View 3:
+![Screenshot 2025-01-29 110152](https://github.com/user-attachments/assets/13546a11-66a4-44bb-beb5-20cdcad1c12a)
+
+
 
 ## 🚀 Features
 - Interactive filters for **Year, Month**, and **Profit Target** adjustments.
